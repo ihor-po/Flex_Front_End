@@ -450,4 +450,7 @@ body, html {
     .central-part__justify-end {
         justify-content: space-between;
     }
+    .footer__text, .footer__link, .footer__phone, .footer__email {
+        font-size: 0.9rem;
+    }
 }
